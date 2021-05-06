@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="NewPath">
+    <file>Images/PomoFavicon.png</file>
+    <file>Images/PomoLogo.png</file>
+  </qresource>
+</RCC>
